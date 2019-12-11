@@ -1,6 +1,8 @@
 # 01 Hello Saga
 
-``bash
+
+
+```bash
 $ npm install
 $ npm start
 ```
